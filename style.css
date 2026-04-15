@@ -1,0 +1,38 @@
+body{
+    background-color: #2a5d5a;
+}
+.nazvaniya{
+width: 636px;
+height: 116px;
+  color: white;
+background-color: #311313;
+margin: 0 auto;
+text-align: center;
+align-content: center;
+font-size: 64px;
+}
+.big{
+    background-color: black;
+    padding: 52px 32px;
+width: 1000px;
+height: 638px;
+border: 10px solid #ff0606;
+margin: 0 auto;
+}
+.small{
+    width: 896px;
+    height: 259px;
+    background-color: aqua;
+margin: 0 auto;
+font-size: 35px;
+}
+
+
+
+
+
+
+
+
+
+
